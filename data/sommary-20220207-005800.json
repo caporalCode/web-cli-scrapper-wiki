@@ -1,0 +1,25 @@
+[
+  {
+    "number": "1",
+    "text": "Enjeux et typologie de la vente à distance",
+    "subtitles": [
+      { "number": "1.1", "text": "Typologie de la vente à distance" },
+      { "number": "1.2", "text": "Enjeux de la vente à distance" }
+    ]
+  },
+  { "number": "2", "text": "Démarche de la vente à distance" },
+  {
+    "number": "3",
+    "text": "Vente à distance et concepts spécifiques",
+    "subtitles": [
+      {
+        "number": "3.1",
+        "text": "Vente à distance et aspects juridiques",
+        "subtitles": [{ "number": "3.1.1", "text": "En France" }]
+      },
+      { "number": "3.1.1", "text": "En France" }
+    ]
+  },
+  { "number": "4", "text": "Notes et références" },
+  { "number": "5", "text": "Voir aussi" }
+]
